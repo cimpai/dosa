@@ -1,6 +1,14 @@
 # DOSA
 
-**Decision-Oriented Systems Architecture**
+**Decision-Oriented Systems Architecture***
+
+DOSA defines systems where:  
+- transitions exist only with proof (witness)
+- correctness is constructed, not validated
+- execution is derived from admissibility
+
+Start here:  
+- docs/core/DOSA_CORE.md
 
 DOSA is not a framework.  
 It is a protocol for building systems that make decisions under uncertainty.
